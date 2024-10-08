@@ -1,8 +1,14 @@
-# CTF-challenges
+# AlgoBharat CTF Challenges
 
-These are the CTF challenges by AlgoBharat. I have provided all the code in this repo for these challenges. 
+This repository contains solutions and code for the AlgoBharat CTF challenges. Below are details for each challenge, including tasks, specifications, and transaction proofs.
 
-## CTF challenge-1
+## CTF Challenge 1: Find the Hidden Flag in Global Storage
+
+**Objective:**
+Uncover a hidden clue stored in the global storage of a deployed smart contract. Once decrypted, the clue reveals a wallet address. You must then send 1 Algo token to this address programmatically.
+
+**Smart Contract ID:**
+```718383248```
 
 **Receiver address(task):** ```2JAZQO6Z5BCXFMPVW2CACK2733VGKWLZKS6DGG565J7H5NH77JNHLIIXLY```
 ```
@@ -13,7 +19,10 @@ Txn Confirmed in round 44366158
 ```
 <img width="901" alt="transaction1" src="https://github.com/user-attachments/assets/99acc45f-bd9a-451a-acc5-e0092712de12">
 
-## CTF challenge-2
+## CTF Challenge 2: Find the Hidden Flag in Encrypted Strings
+
+**Objective:**
+Uncover a hidden clue within six different strings using a substitution cipher technique. The decrypted clue will reveal an Asset ID that must be used to perform an NFT opt-in transaction.
 
 **Asset ID(task):** ```720485937```
 ```
@@ -23,7 +32,12 @@ Txn Confirmed in round 44366801
 ```
 <img width="887" alt="optintransaction" src="https://github.com/user-attachments/assets/100bb692-299b-499b-aed8-245a47055267">
 
-## CTF challenge-3
+## CTF Challenge 3: Encrypt and Send a Message
+
+**Objective:**
+- Find a key by matching the asset ID and the wallet address.
+- Use this key to encrypt a message.
+- Send an ALGO with the encrypted message as a note.
 
 **Encrypt key(to find in step2):** ```ZA2Q5OBZZ```
 
