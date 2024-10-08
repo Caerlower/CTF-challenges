@@ -25,7 +25,9 @@ Txn Confirmed in round 44366801
 
 ## CTF challenge-3
 
-**Message in encryption:** ```ae6ebfcff2e1d10cafb51c0e4ab77da22838436dd3b5d82b7d2eb6104bd30dc3```
+**Encrypt key(to find in step2):** ```ZA2Q5OBZZ```
+
+**Message in encryption(task in step3 - to send this to wallet address):** ```c1404af15dfdf2dc8f28f43ee1e8efd3e9b44e294dfee0593defe3cf769025611```
 ```
 Address: K54ZTTHNDB567Q5J5T73CEJCT3Z3MB6VL35PJBIX57KGRWNGZZLH3BK7S4
 Txn sent: https://testnet.explorer.perawallet.app/tx/TGUAUOZ3HPQ7YPIHMU7MF7F4HW2ZQH4BZO3GGONY32YTXNBGU3VA
