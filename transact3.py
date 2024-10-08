@@ -29,7 +29,7 @@ payment_txn = transaction.PaymentTxn(
     sp=suggested_params,
     amt=util.algos_to_microalgos(1.0),
     receiver="2JAZQO6Z5BCXFMPVW2CACK2733VGKWLZKS6DGG565J7H5NH77JNHLIIXLY",
-    note=b"ae6ebfcff2e1d10cafb51c0e4ab77da22838436dd3b5d82b7d2eb6104bd30dc3"
+    note=b"c1404af15dfdf2dc8f28f43ee1e8efd3e9b44e294dfee0593defe3cf76902561"
 )
 
 # Sign the transaction
