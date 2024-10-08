@@ -51,8 +51,11 @@ Txn Confirmed in round 44367961
 <img width="850" alt="transaction3" src="https://github.com/user-attachments/assets/f1f37207-e3f8-41ed-bdf0-79c2d59bacda">
 
 
-## CTF challenge-4
+## CTF Challenge 4: Find the Nonce to Generate a Specific Hash Pattern
 
+**Objective:**
+Find the correct nonce value that produces a SHA-256 hash containing the pattern "abc23" when concatenated with the following base string:
 
+**Base String:** ```Algorand is a carbon negative platform.```
 
 
